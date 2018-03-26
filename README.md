@@ -1,6 +1,6 @@
 # Content: Supervised Learning
 
-## Project: Finding Donors 
+## Project: Analysis of the Census Dataset 
 
 ### Install
 
